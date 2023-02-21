@@ -1,14 +1,15 @@
 #include "main.h"
 
 /**
-*main - Entry point
+*
+*main - Entry poiny
 *
 *return; Always 0 (Success)
 */
 
-int main ()
+int (main)
 {
-        putchar("_putchar\n");
+	_putchar('_putchar\n');
 
-        return (0);
+	return (0);
 }

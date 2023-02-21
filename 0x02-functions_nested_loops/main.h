@@ -1,1 +1,1 @@
-    int putchar(const char *string);
+int putchar (int character)
