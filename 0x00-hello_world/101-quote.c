@@ -2,7 +2,8 @@
 
 /**
  * main - entry point
- * return: Always 1 (Success)
+ * Description: Prints  without puts
+ * return: 1
  */
 
 int main(void)
