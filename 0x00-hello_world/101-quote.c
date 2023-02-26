@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - prints to a string
  * Description: Prints  without puts
  * return: 1
  */
