@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
- * _puts - Write a function that prints a string, followed
- * by a new line, to stdout.
- * @str: an input string
- * Return: Nothing
+ * _puts - Entry point
+ * Description: Prints a string to stdout
+ * @str: String data type
+ * Return: str
  */
+
 void _puts(char *str)
 {
 	int i = 0;
